@@ -21,7 +21,7 @@
 title: Jekyll IAW
 email: alvaro.san@educantabria.es
 description: >- # this means to ignore newlines until "baseurl:"
-  My Jekyll site to learn coding and widen my knowledge about coding related to site making.
+  My Jekyll site.
 baseurl: "/JekyllIAW" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: AlvaroSanJuan20
