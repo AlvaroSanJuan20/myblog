@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A new post/ Un nuevo post"
+title:  "Programación Avanzada/Advance Programming"
 date:   2024-11-05 10:06
 categories: jekyll update
 ---
